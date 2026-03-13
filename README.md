@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sufiyanshahiddev&label=Profile%20views&color=0e75b6&style=flat" alt="sufiyanshahiddev" /> </p>
 
-- 🌱 I’m currently learning **Web and App Development**
+- 🌱 I’m currently learning **Web and App Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SufiyanShahidDev](https://github.com/SufiyanShahidDev)
 
