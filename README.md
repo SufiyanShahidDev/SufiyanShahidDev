@@ -79,40 +79,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| 🖥️ Project | 📝 Description | 🛠️ Stack | 🔗 Links |
-|:-----------|:--------------|:---------|:--------|
-| 🎓 **Student ID Card Generator** | Dynamic ID card generator with validation, print support & responsive layout | `HTML` `CSS` `Bootstrap` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://studentid-card-generator.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/ID-Card-Generator) |
-| 📝 **To-Do Web App** | Task manager with live validation, add/edit/delete & dynamic UI updates | `HTML` `CSS` `Bootstrap` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://to-do-work-web-app.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/To-Do-Web-App) |
-| 💸 **Expense Tracker** | Records income & expenses, manages balances with localStorage persistence | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://expense-tracker-web-app-using-js.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Expense-Tracker) |
-| 🧮 **Calculator App** | Responsive calculator with clean ES6+ arithmetic logic | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://calculator-web-app-using-js.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Calculator-Web-App) |
-| 🎮 **Tic Tac Toe** | Interactive browser game with win detection & clean game logic | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://tic-tac-toe-by-using-js.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Tic-Tac-Toe) |
-| 🛒 **Dynamic Products Page** | Data-driven product listing with dynamic rendering & clean UI | `HTML` `CSS` `Bootstrap` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://dynamic-products-data-handling.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Dynamic-Products-Data-Handling) |
-| 🎨 **Colour Palette Generator** | Instantly generates HEX codes — copy, explore & build colour schemes | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://colour-palette-generator-using-js.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Colour-Palette-Generator) |
-| 🏷️ **BG Color Code Generator** | Interactive background color switcher with clipboard copy | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://bg-color-code-generator.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Background-Colour-Generator) |
-| 🧠 **Quiz Web App** | Real-time quiz with scoring, validation & smooth interactions | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://frontend-quiz-web-app.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Quiz-Web-App) |
-| 📊 **Student Report Card** | Semester-based result management with grade calculations | `HTML` `CSS` `Bootstrap` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://student-all-semesters-report-card.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Student-Report-Card) |
-| 🏷️ **Coupon Discount System** | Real-time coupon validation with pricing logic & clean UI | `HTML` `CSS` `Bootstrap` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://coupon-code-assignment.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Discount-Calculator) |
-| 🚗 **Rent A Car Clone** | Responsive landing page clone with semantic HTML & CSS | `HTML` `CSS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://rentacarclone.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Rent-A-Car-Clone) |
-| 🌸 **Fragrance Website** | Light/dark mode toggle responsive landing page | `HTML` `CSS` `Bootstrap` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://roghani-fragrance.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Fragrance-Website) |
-| 🖱️ **Form Validation** | Responsive contact form with real-time validation & user feedback | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://form-validations-using-javascript.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Form-Validation) |
-| 🎓 **Mini Hackathon** | Figma-to-HTML pixel-perfect conversion — responsive layout | `HTML` `CSS` `Bootstrap` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://smitminihackathon.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Mini-Hackathon) |
-| 📚 **Free Courses Website** | Responsive static website with structured sections & Bootstrap | `HTML` `CSS` `Bootstrap` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://free-courses-static-website.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/free-courses-static-websitea) |
-| 🏠 **Usability Hub Clone** | Responsive landing page with clean layout & visual hierarchy | `HTML` `CSS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://usabilityhubclones.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Website-Task) |
-| 🔐 **Facebook Registration Form** | Facebook-style registration with validation & localStorage | `HTML` `CSS` `JS` | [![Live](https://img.shields.io/badge/Live-00C7B7?style=flat-square&logo=netlify&logoColor=white)](https://local-form-storage-task.netlify.app/) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SufiyanShahidDev/Facebook-Registration-Form) |
-
-</div>
-
-<div align="center">
-
-### 👉 [View All 70+ Projects on GitHub →](https://github.com/SufiyanShahidDev?tab=repositories)
-
-</div>
-
----
 
 ## 🏆 Certifications & Education
 
