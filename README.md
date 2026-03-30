@@ -23,44 +23,12 @@
 
 <img align="right" alt="Coding GIF" width="360" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-```javascript
-const sufiyan = {
-  name        : "Sufiyan Shahid",
-  role        : "Frontend Developer 🚀",
-  location    : "Karachi, Sindh, Pakistan 🇵🇰",
-  portfolio   : "https://sufiyan-shahid-dev.netlify.app/",
-  email       : "abusufiyanshahid24@gmail.com",
-
-  currently   : [
-    "📚 Web & App Dev at SMIT",
-    "🎓 Software Engineering (HDSE) at Aptech"
-  ],
-
-  certified   : "🏅 Cisco Certified Frontend Developer",
-
-  skills      : [
-    "HTML5", "CSS3", "JavaScript", "ES6+",
-    "Bootstrap", "Figma", "MySQL", "PHP",
-    "GitHub", "Netlify", "On-Page SEO"
-  ],
-
-  openTo      : [
-    "💼 Internships",
-    "👨‍💻 Junior Developer Roles",
-    "🌐 Freelance Projects"
-  ],
-
-  funFact     : "I love exploring programming secrets 🔍"
-};
-```
-
-<br clear="right"/>
 
 - 🔭 Currently building **modern web & app development projects**
 - 🌱 Studying at **Saylani Mass I.T. Training (SMIT)** + **Aptech Learning Pakistan**
 - 🏆 **Cisco Certified Frontend Developer** *(Cisco Networking Academy)*
 - 💡 Focused on **responsive**, **SEO-friendly**, and **high-performance** UIs
-- 💬 Ask me about **HTML · CSS · JavaScript · Bootstrap · DOM Manipulation**
+- 💬 Ask me about **HTML · CSS · JavaScript · Bootstrap · DOM Manipulation · PHP · MySQL**
 - 📫 Reach me: **abusufiyanshahid24@gmail.com**
 - ⚡ Fun Fact: I build things **pixel by pixel** until they're perfect!
 
