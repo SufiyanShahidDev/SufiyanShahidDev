@@ -73,13 +73,7 @@
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SufiyanShahidDev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=Sufiyan%27s%20GitHub%20Stats" alt="GitHub Stats" />
-&nbsp;
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=SufiyanShahidDev&theme=tokyonight&hide_border=true&stroke=38BDF8&ring=38BDF8&fire=FF6B6B&currStreakLabel=38BDF8" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SufiyanShahidDev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&custom_title=Most%20Used%20Languages" alt="Top Languages" />
 
 </div>
 
