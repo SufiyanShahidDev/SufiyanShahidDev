@@ -30,7 +30,7 @@
 - 💡 Focused on **responsive**, **SEO-friendly**, and **high-performance** UIs
 - 💬 Ask me about **HTML · CSS · JavaScript · Bootstrap · DOM Manipulation · PHP · MySQL**
 - 📫 Reach me: **abusufiyanshahid24@gmail.com**
-- ⚡ Fun Fact: I build things **pixel by pixel** until they're perfect!
+- ⚡ Fun Fact: Always eager to learn from experienced developers and industry professionals.
 
 ---
 
